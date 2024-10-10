@@ -29,7 +29,7 @@ function Projects() {
               description="Portfolio personnel decrivant mes realisations dans le domaine du developpement web"
               technologie="React Js"
               ghLink="https://github.com/nsconsult/portfolio"
-              demoLink="https://chatify-49.web.app/"
+              demoLink="https://nsconsult.github.io/portfolio"
             />
           </Col>
 
