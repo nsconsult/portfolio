@@ -8,6 +8,7 @@ import emotion from "../../Assets/Projects/emotion.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
+import estate from "../../Assets/Projects/estate.png";
 
 function Projects() {
   return (
@@ -25,11 +26,9 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Portfolio"
-              description="Portfolio personnel decrivant mes realisations dans le domaine du developpement web"
-              technologie="React Js"
-              ghLink="https://github.com/nsconsult/portfolio"
-              demoLink="https://nsconsult.github.io/portfolio"
+              title="Tepe"
+              description="Plateforme de recherche d'emploi interagissant avec trois types d'utilisateurs a savoir , les rechercheurs d'emploi, les ecoles(universités), et les entreprises. "
+              technologie="Next.js & Laravel & MySQL"
             />
           </Col>
 
@@ -49,7 +48,7 @@ function Projects() {
               isBlog={false}
               title="Show Time"
               description="Show Time est une plateforme web de reservation de billets pour des concerts prevues."
-              technologie="Nest Js et MongoDb"
+              technologie="React Js et MongoDb"
             />
           </Col>
 
@@ -60,7 +59,7 @@ function Projects() {
               title="MiaFlix"
               description="Miaflix est une application web proposant aux cynéphiles de previsualiser des films en fonctions de leur categories de préference, et aller suivre sur les plateforme de stream légales"
               demoLink="https://miaflix.netlify.app/"
-              technologie="Nest Js, MongoDb et nuxtJs"
+              technologie="Nest Js, MongoDb et VueJs"
             />
           </Col>
 
@@ -72,6 +71,17 @@ function Projects() {
               description="C'est une application de gestion des taches ou les utilisateurs peuvent creer, lire, mettre a jour et supprimer des taches."
               demoLink="https://naztodo.netlify.app/"
               technologie="Vue Js et localStorage"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={estate}
+              isBlog={false}c
+              title="Estate"
+              description="C'est une application de gestion de conciergerie imobilières pour les entreprises de gestion immobilière."
+              demoLink="https://estate-frontend-six.vercel.app/"
+              technologie="Nuxt.Js et Nest.Js & MongoDb"
             />
           </Col>
         </Row>
