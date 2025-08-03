@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ee62c892.css",
-    "main.js": "/portfolio/static/js/main.26b316e7.js",
+    "main.js": "/portfolio/static/js/main.c46f9965.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/leaf.png": "/portfolio/static/media/leaf.451cc34d630ed50ee41e.png",
     "static/media/blog.png": "/portfolio/static/media/blog.f5243084ff3566d33347.png",
-    "static/media/cv_nazim.pdf": "/portfolio/static/media/cv_nazim.6f2c63b2e492aa0c94e4.pdf",
     "static/media/chatify.png": "/portfolio/static/media/chatify.6f1e85f911405bc6ccda.png",
+    "static/media/cv_nazim.pdf": "/portfolio/static/media/cv_nazim.cad3321b0e5424b43cf3.pdf",
     "static/media/bot.png": "/portfolio/static/media/bot.7d3be0ce18d72bd8f065.png",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/emotion.png": "/portfolio/static/media/emotion.21b59b4cad0b28803c9b.png",
@@ -19,12 +19,12 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.ee62c892.css.map": "/portfolio/static/css/main.ee62c892.css.map",
-    "main.26b316e7.js.map": "/portfolio/static/js/main.26b316e7.js.map",
+    "main.c46f9965.js.map": "/portfolio/static/js/main.c46f9965.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee62c892.css",
-    "static/js/main.26b316e7.js"
+    "static/js/main.c46f9965.js"
   ]
 }
